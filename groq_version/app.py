@@ -84,7 +84,7 @@ WORDS = ['hello','hi','hey','college','hostel','mess','campus',
          'good','bad','please','welcome','goodbye']
 
 # --- GROQ API INITIALIZATION ---
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "API_KEY_CODE"
 client = Groq(api_key=GROQ_API_KEY)
 
 # --- KNOWLEDGE BASE MANAGEMENT ---
