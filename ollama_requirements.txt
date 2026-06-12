@@ -1,0 +1,14 @@
+ollama==0.3.3
+easyocr==1.7.2
+opencv-python==4.10.0.84
+pillow==10.4.0
+gtts==2.5.3
+pygame==2.6.0
+sounddevice==0.4.7
+scipy==1.13.1
+SpeechRecognition==3.10.4
+torch==2.3.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+gradio==4.44.1
+numpy==1.26.4
